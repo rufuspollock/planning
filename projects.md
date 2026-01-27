@@ -1,0 +1,21 @@
+- **Life Itself** — Core umbrella project encompassing vision, hubs, research, practice, and digital presence for wiser societies.
+  - **Developmental Spaces (DDS)** — Deliberately developmental / neo-monastic spaces for sustained inner and collective development.
+- **Second Renaissance** — Cultural-civilisational renewal project including narrative, events, and movement-building.
+  - **Education for Flourishing (Mini 2R Con)** — Conferences and convenings on education, human development, and flourishing.
+- **Flower Show** — Markdown-first publishing platform for instant websites, documentation, wikis, and books.
+- **PortalJS** — Open-source framework and potential SaaS for next-generation data portals and data storytelling.
+- **DataHub** — Open data publishing platform and data-as-a-product ecosystem.
+- **Datopian** — Consultancy and product studio focused on data infrastructure, portals, and data services.
+- **AI Tried Today** — Public log of practical, day-to-day learnings from working with AI.
+- **AI Sense-Making** — Inquiry into the epistemic, social, and civilisational implications of AI.
+- **Markdown Manifesto** — Argument and tutorials for Markdown as a universal, sovereign content format.
+- **The Open Revolution** — Book project on the political, cultural, and societal implications of openness.
+- **History in Bits** — Early-stage book project exploring history through modular, granular units.
+- **Wilber Wiki** — Focused, concept-level knowledge base on Ken Wilber and integral theory.
+- **Collective Action Course** — Course on coordination, shared identity, and the cultural foundations of collective action.
+- **Teal Estate** — Real-estate strategy and tooling for conscious co-living and community projects.
+- **Piggy and Kitty** — Illustrated cartoon project exploring family life, transformation, and partnership.
+- **Archipelago.place** — Platform concept for mapping and connecting distributed places, hubs, and communities.
+- **Reports That Matter** — Publishing initiative for inquiry-driven, sense-making reports.
+- **IssueTrees.com / SQA** — Tools and evangelisation for structured thinking using issue trees and SCQA/SQA methods.
+- **Real Estate Investments** — Personal and strategic real-estate holdings and investment management.

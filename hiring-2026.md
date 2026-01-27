@@ -1,0 +1,1 @@
+i want to hire a top quality executive assistant who can beyond just managing my life to helping oversee project implementation and who is very comfortable with AI. should be in Europe compatible timezone and preferably able to travel in person occassionally to france.
