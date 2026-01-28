@@ -9,16 +9,28 @@ Then generate:
 
 Present these and ask if I'd like any tweaks. If I ask for title options, provide 3 alternatives.
 
-Once approved, write the project file to `projects/[kebab-case-title].md` using this format:
+Once I approve the description, quickly ask me these optional fields one by one (I can skip any):
+- **GitHub URL?** (stored as `github`)
+- **Homepage URL?** (stored as `url`)
+- **Phase?** (inbox, shaping, shipping, sharing)
+- **State?** (backlog, in progress, done, paused)
+
+Then write the project file to `projects/[kebab-case-title].md` using this format:
 
 ```
 ---
 title: [Title]
 description: [Short description]
 created: [today's date YYYY-MM-DD]
+github: [if provided]
+url: [if provided]
+phase: [if provided]
+state: [if provided]
 ---
 
 [Full description]
 
 ## Tasks
 ```
+
+Omit any frontmatter fields that weren't provided.
