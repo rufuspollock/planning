@@ -12,6 +12,11 @@ Now help me surface next actions through quick prompts:
 
 Keep it conversational and fast. Don't lecture or over-structure. If I give you actions, reflect them back tidied up and ask if I want them added to the Tasks section of the project file.
 
+Tips:
+- **S/C/Q/H framing** can help: Situation, Complication, Question, Hypothesis
+- **Group tasks** under `###` headings if there are distinct phases or streams
+- Mark the immediate next action with ⏭️
+
 Actions should be written as a simple list under `## Tasks`:
 ```
 ## Tasks
