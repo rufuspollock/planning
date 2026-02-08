@@ -12,6 +12,7 @@ Present these and ask if I'd like any tweaks. If I ask for title options, provid
 Once I approve the description, quickly ask me these optional fields one by one (I can skip any):
 - **GitHub URL?** (stored as `github`)
 - **Homepage URL?** (stored as `url`)
+- **Issue tracker URL?** (stored as `tracker`) - only ask if GitHub URL wasn't provided, otherwise infer as `{github}/issues`
 - **Phase?** (inbox, shaping, shipping, sharing)
 - **State?** (backlog, in progress, done, paused)
 
@@ -24,6 +25,7 @@ description: [Short description]
 created: [today's date YYYY-MM-DD]
 github: [if provided]
 url: [if provided]
+tracker: [if provided, or inferred from github as {github}/issues]
 phase: [if provided]
 state: [if provided]
 ---
@@ -33,4 +35,4 @@ state: [if provided]
 ## Tasks
 ```
 
-Omit any frontmatter fields that weren't provided.
+Omit any frontmatter fields that weren't provided. If `github:` is provided but `tracker:` is not explicitly given, automatically add `tracker: {github}/issues`.

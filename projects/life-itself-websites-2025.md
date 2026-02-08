@@ -4,6 +4,7 @@ description: Major refactor of Life Itself websites to reflect the new strategy 
 created: 2026-01-29
 github: https://github.com/life-itself/next.lifeitself.org
 url: https://lifeitself.org/
+tracker: https://github.com/life-itself/next.lifeitself.org/issues
 phase: shipping
 state: in progress
 ---
@@ -14,9 +15,9 @@ An effort to significantly update the Life Itself web presence - including the m
 
 ### Migrate from Flower Show Hosted to Flower Show Cloud
 
-- [ ] ⏭️  Set up Flower Show Cloud account
-- [ ] Deploy the current repo
-- [ ] See what happens
+- [x] ⏭️  Set up Flower Show Cloud account
+- [x] Deploy the current repo
+- [x] See what happens
 
 ### Migrate WordPress content to Markdown/Flower Show
 
